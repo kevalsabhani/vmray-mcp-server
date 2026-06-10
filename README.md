@@ -1,2 +1,2 @@
-# VMRay-MCP-Server
+# VMRay MCP Server
 MCP Server for VMRay Platform
